@@ -1,3 +1,5 @@
+A Project made in first semester.
+
 Project Description:
 Create a basic command-line simulator for a kid's smartwatch that allows users to perform
 activities that simulate the functions of a kid's smartwatch. You will create a simple commandline
